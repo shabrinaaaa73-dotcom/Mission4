@@ -4,7 +4,7 @@ Template README.md (Copy this):
 Tugas praktikum Minggu 4 - State & Events.
 
 ## 📸 Preview
-![App Greeting](https://github.com/shabrinaaaa73-dotcom/Mission4/assets/images/Halaman1.jpeg)
+![App Greeting](https://github.com/shabrinaaaa73-dotcom/Mission4/issues/1#issue-4231594902)
 ## 🛠️ Logic Implemented
 - **useState Hook:** Managing name and role input.
 - **Event Handlers:** onChangeText for real-time binding.
